@@ -2,3 +2,17 @@ theme: minima
 title: Ying Hao's Math Ramblings
 author: Kok Ying Hao
 description: A place where I post notes and random projects.
+
+header_pages:
+- home.md
+- notes.md
+- projects.md
+- research.md
+
+collections:
+  notes:
+    output: True
+    permalink: /notes/:name/
+
+plugins:
+- jekyll-feed
