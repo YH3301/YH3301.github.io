@@ -4,7 +4,7 @@ title: Ramblings
 permalink: /posts/
 ---
 
-# Posts
+## Posts
 
 Assorted posts, ramblings, short notes, and updates.
 

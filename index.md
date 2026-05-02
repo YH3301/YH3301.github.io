@@ -1,7 +1,7 @@
 ---
 title: Home
 ---
-# About
+## About
 
 Hi, I'm Ying Hao, a first year PhD student in Mathematics at the National University of Singapore (NUS). This site is a place for my lecture notes, projects and ramblings.
 

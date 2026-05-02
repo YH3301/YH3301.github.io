@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Coding Projects
+title: Projects
 permalink: /projects/
 ---
 
-# Coding Projects
+## Coding Projects
 
 Some coding projects, scripts and experiments with machine learning.
 

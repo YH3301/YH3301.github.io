@@ -4,7 +4,7 @@ title: Research Interests
 permalink: /research/
 ---
 
-# Research
+## Research
 
 This page contains my research interests, reading notes, books that I am currently reading and research.
 
