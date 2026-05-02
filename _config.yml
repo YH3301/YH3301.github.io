@@ -14,5 +14,13 @@ collections:
     output: True
     permalink: /notes/:name/
 
+  projects:
+    output: True
+    permalink: /projects/:name/
+
+  research:
+    output: True
+    permalink: /research/:name/
+
 plugins:
 - jekyll-feed
