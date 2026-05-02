@@ -1,5 +1,5 @@
 ---
-title: Welcome to my blog
+title: Home
 ---
 # About
 
@@ -18,3 +18,8 @@ Hi, I'm Ying Hao, a first year PhD student in Mathematics at the National Univer
 - [ ] prove alg top is isomorphic to top alg, so alg top is Abelian
 - [ ] 100% Hitman WOA
 - [ ] install SageMath
+
+## Recent Posts
+{% for post in site.posts limit:5 %}
+- [{{ post.title }}]({{ post.url | relative_url }}) — {{ post.date | date: "%b %-d, %Y" }}
+{% endfor %}

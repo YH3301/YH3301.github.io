@@ -4,10 +4,10 @@ author: Kok Ying Hao
 description: A place where I post notes and random projects.
 
 header_pages:
-- home.md
+- posts.md
 - notes.md
 - projects.md
-- research.md
+- currentresearch.md
 
 collections:
   notes:
