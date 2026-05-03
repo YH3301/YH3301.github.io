@@ -24,8 +24,8 @@ Summarised ways to calculate Galois groups of cubic and quartic equations.
 
 <iframe
   src="https://yh3301.github.io/galoisgroups/computing_galois_groups.pdf"
-  width="100%"--
-  height="550px"
+  width="100%"
+  height="520px"
   style="border: 1px solid #ddd; border-radius: 8px;">
 </iframe>
 
