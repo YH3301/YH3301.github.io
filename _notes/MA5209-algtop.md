@@ -3,14 +3,14 @@ layout: page
 title: MA5209 Algebraic Topology Notes
 description: Notes from algebraic topology.
 type: lecture
+status: Finished
 ---
 
-# Algebra Notes
+# Description
 
-## Group Theory
+## Files
 
-- [Problems in Group Theory](/assets/files/problems-in-groups.pdf)
-
-## Rings and Modules
+- [PDF]
+- [LaTeX Source]  
 
 Coming soon.

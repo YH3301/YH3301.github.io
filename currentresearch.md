@@ -15,15 +15,15 @@ This page contains my research interests, reading notes, books that I am current
 
 # Reading List
 
-- [ ] Kreyzsig's Introductory Functional Analysis (for QE)
-- [ ] Humphreys's Introduction to Lie Algebras and Representation Theory
-- [ ] De Koninck and Luca's Analytic Number Theory: Exploring the Anatomy of Integers
-- [ ] Nathanson's Additive Number Theory
-- [ ] Apostol's Modular Functions and Dirichlet Series
-- [ ] Tate's thesis
-- [ ] Serre's Linear Representation of Finite Groups
-- [ ] Lecture Notes on Automorphic Forms
-- [ ] Wheeden & Zygmund's Measure and Integral
+- [ ] Kreyzsig's *Introductory Functional Analysis* (for QE)
+- [ ] Humphreys's *Introduction to Lie Algebras and Representation Theory*
+- [ ] De Koninck and Luca's *Analytic Number Theory: Exploring the Anatomy of Integers*
+- [ ] Nathanson's *Additive Number Theory*
+- [ ] Apostol's *Modular Functions and Dirichlet Series*
+- [ ] *Tate's thesis*
+- [ ] Serre's *Linear Representation of Finite Groups*
+- [ ] Lecture Notes on *Automorphic Forms*
+- [ ] Wheeden & Zygmund's *Measure and Integral*
 
 # Research Notes and Topics
 
