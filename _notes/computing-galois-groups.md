@@ -20,11 +20,11 @@ Summarised ways to calculate Galois groups of cubic and quartic equations.
 4. Distinguishing $C_4$ vs $D_8$
 5. Dedekind's Theorem and Chebotarev's Theorem
 6. Kronecker-Weber Theorem and Constructing Cyclic Extensions of $\mathbb{Q}$
-7. Galois Groups of Irreducible Cubics
+7. Galois Groups for Reducible Polynomials
 
 <iframe
   src="https://yh3301.github.io/galoisgroups/computing_galois_groups.pdf"
-  width="100%"
+  width="100%"--
   height="550px"
   style="border: 1px solid #ddd; border-radius: 8px;">
 </iframe>
