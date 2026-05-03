@@ -2,7 +2,7 @@
 layout: page
 title: MA5209 Algebraic Topology Notes
 description: Notes from algebraic topology.
-type: lecture
+type: expository
 ---
 
 # Algebra Notes
