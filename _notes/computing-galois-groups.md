@@ -17,9 +17,9 @@ Summarised ways to calculate Galois groups of cubic and quartic equations.
 1. Basic Setup and Transitive Subgroups
 2. Galois Groups of Irreducible Cubics
 3. Galois Groups of Irreducible Quartics
-4. Distinguishing \(C_4\) vs \(D_8\)
+4. Distinguishing $C_4$ vs $D_8$
 5. Dedekind's Theorem and Chebotarev's Theorem
-6. Kronecker-Weber Theorem and Constructing Cyclic Extensions of \(\mathbb{Q}\)
+6. Kronecker-Weber Theorem and Constructing Cyclic Extensions of $\mathbb{Q}$
 7. Galois Groups of Irreducible Cubics
 
 <iframe

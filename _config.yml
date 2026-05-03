@@ -4,9 +4,9 @@ author: Kok Ying Hao
 description: A place where I post notes and random projects.
 
 header_pages:
-- posts.md
 - notes.md
 - projects.md
+- posts.md
 - currentresearch.md
 
 collections:
