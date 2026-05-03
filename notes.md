@@ -6,7 +6,7 @@ permalink: /notes/
 
 These are some lecture notes (some of my own and some from graduate courses that I have taken/suffered in NUS), problem sets and expository notes.
 
-## NUS Lecture Notes
+# NUS Lecture Notes
 
 {% assign lecture_notes = site.notes | where: "type", "lecture" | sort: "title" %}
 
@@ -15,7 +15,7 @@ These are some lecture notes (some of my own and some from graduate courses that
 {% endfor %}
 
 
-## Expository Notes
+# Expository Notes
 
 {% assign expository_notes = site.notes | where: "type", "expository" | sort: "title" %}
 

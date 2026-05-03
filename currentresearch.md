@@ -3,17 +3,17 @@ layout: default
 permalink: /research/
 ---
 
-## Research
+# Research
 
 This page contains my research interests, reading notes, books that I am currently reading and research.
 
-## Interests
+# Interests
 
 - Analytic Number Theory (particularly on Shifted Convolution Sums (SCS))
 - Additive Number Theory / Additive Combinatorics
 - Representation Theory & Langlands Program (particularly theta correspondence)
 
-## Reading List
+# Reading List
 
 - [] Kreyzsig's Introductory Functional Analysis (for QE)
 - [] Humphreys's Introduction to Lie Algebras and Representation Theory
@@ -25,6 +25,6 @@ This page contains my research interests, reading notes, books that I am current
 - [] Lecture Notes on Automorphic Forms
 - [] Wheeden & Zygmund's Measure and Integral
 
-## Research Notes and Topics
+# Research Notes and Topics
 
 In the future. (Need to survive QEs first.)
