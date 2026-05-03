@@ -11,7 +11,7 @@ These are some lecture notes (some of my own and some from graduate courses that
 {% assign nus_notes = site.notes | where: "type", "lecture" | where: "institution", "NUS" | sort: "title" %}
 
 {% for note in nus_notes %}
-- [{{ note.title }}]({{ note.url | relative_url }}){% if note.course %} — {{ note.course }}{% endif %}{% if note.description %}: {{ note.description }}{% endif %}
+- [{{ note.title }}]({{ note.url | relative_url }}){% if note.description %} — {{ note.description }}{% endif %}
 {% endfor %}
 
 # Lecture Notes
