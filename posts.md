@@ -4,8 +4,6 @@ title: Posts
 permalink: /posts/
 ---
 
-## Posts
-
 Assorted posts, ramblings, short notes, and updates.
 
 {% for post in site.posts %}
