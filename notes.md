@@ -8,12 +8,19 @@ These are some lecture notes (some of my own and some from graduate courses that
 
 # NUS Lecture Notes
 
-{% assign lecture_notes = site.notes | where: "type", "lecture" | sort: "title" %}
+{% assign nus_notes = site.notes | where: "type", "lecture" | where: "institution", "NUS" | sort: "title" %}
 
-{% for note in lecture_notes %}
-- [{{ note.title }}]({{ note.url | relative_url }}){% if note.description %} — {{ note.description }}{% endif %}
+{% for note in nus_notes %}
+- [{{ note.title }}]({{ note.url | relative_url }}){% if note.course %} — {{ note.course }}{% endif %}{% if note.description %}: {{ note.description }}{% endif %}
 {% endfor %}
 
+# Lecture Notes
+
+{% assign other_lecture_notes = site.notes | where: "type", "lecture" | where_exp: "note", "note.institution != 'NUS'" | sort: "title" %}
+
+{% for note in other_lecture_notes %}
+- [{{ note.title }}]({{ note.url | relative_url }}){% if note.description %} — {{ note.description }}{% endif %}
+{% endfor %}
 
 # Expository Notes
 
