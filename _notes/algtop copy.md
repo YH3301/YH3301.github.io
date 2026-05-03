@@ -1,16 +1,9 @@
 ---
 layout: page
-title: MA5209 Algebraic Topology Notes
-description: Notes from algebraic topology.
+title: Computing Galois Groups
+description: Ways to calculate Galois groups of cubic and quartic equations.
 type: expository
 ---
 
-# Algebra Notes
-
-## Group Theory
-
-- [Problems in Group Theory](/assets/files/problems-in-groups.pdf)
-
-## Rings and Modules
-
-Coming soon.
+# Description
+Summarised ways to calculate Galois groups of cubic and quartic equations.
