@@ -8,8 +8,9 @@ Hi, I'm Ying Hao, a first year PhD student in Mathematics at the National Univer
 
 ## What you can find here
 
-- [Lecture Notes](/notes/) — Lecture notes, problem sets, and mathematical writeups.
+- [Lecture Notes](/notes/) — Lecture notes, problem sets and expository notes.
 - [Coding Projects](/projects/) — Programming projects and experiments.
+- [Posts](/posts/) - Various writeups.
 - [Research](/research/) — Reading notes and research interests.
 
 ## To-do list
